@@ -144,3 +144,5 @@ require (
 
 // (for buildx)
 replace github.com/jaguilar/vt100 => github.com/tonistiigi/vt100 v0.0.0-20190402012908-ad4c4a574305
+
+replace github.com/awslabs/goformation/v4 => github.com/lobiCode/goformation/v4 v4.0.0-20230606062924-d9641dc83249
